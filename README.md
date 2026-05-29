@@ -141,3 +141,10 @@ http://localhost:3000
 * Client-Server Communication
 * Responsive Web Design
 
+##  Screenshots
+
+### Homepage
+![Homepage](screenshots/homepage.png)
+
+### Database Records
+![Database](screenshots/database.png)
